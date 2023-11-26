@@ -44,3 +44,89 @@
     transition: 1s;
 
 }
+
+.footer{
+    display: inline-flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #f8fafc;
+
+}
+
+.creadores{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.trabajo{
+    margin-left: 100px;
+}
+
+.redes_sociales{
+    margin-left: 150px;
+}
+
+.redes{
+    display: inline-flex;
+}
+
+.li_redes{
+    margin-left: 8px;
+    margin-top: 5px;
+}
+
+.li_redes:hover{
+    color: #fed7aa;
+    transition: 0.5s;
+}
+
+
+.copy{
+    display: block;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-top: 0.5px solid #cccaca;
+}
+
+.nav_mujer{
+    background-image: url(../img/collage_1.png);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.nav_ul_mujer{
+    display: inline-flex;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.li_nav_m {
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.li_nav_m_2{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.li_nav_m_3{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.li_nav_m_4 {
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
