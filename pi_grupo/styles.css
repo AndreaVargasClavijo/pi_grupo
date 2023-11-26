@@ -1,0 +1,40 @@
+.header {
+    background-image: url(../img/img_fondo.png);
+    height:50rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.nav_seccion{
+    text-align: center;
+    margin-top: 240px;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+.nav_seccion_m{
+    margin-right: 250px;
+    padding: 5px 20px;
+    border: 2px solid #111111;
+}
+
+.nav_seccion_m:hover{
+    margin-right: 245px;
+    font-size: 30px;
+    padding: 8px 25px;
+}
+
+
+
+.nav_seccion_h{
+    margin-left: 80PX;
+    padding: 5px 20px;
+    border: 2px solid #111111;
+}
+
+.nav_seccion_h:hover{
+    font-size: 30px;
+    padding: 7px 22px;
+}
