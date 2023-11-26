@@ -23,7 +23,10 @@
 .nav_seccion_m:hover{
     margin-right: 245px;
     font-size: 30px;
-    padding: 8px 25px;
+    padding: 8px 23px;
+    border: 2px solid #fed7aa;
+    transition: 1s;
+
 }
 
 
@@ -36,5 +39,8 @@
 
 .nav_seccion_h:hover{
     font-size: 30px;
-    padding: 7px 22px;
+    padding: 8px 23px;
+    border: 2px solid #fed7aa;
+    transition: 1s;
+
 }
